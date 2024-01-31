@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+
+:root{
+--text-color: #1E1E1E;
+--text-muted: #8D8D8D;
+--text-cards-dark-blue: #0D1B39;
+--accent: #E58411;
+
+--header-text-color: #FFF;
+
+--footer-accent: #F6973F;
+--footer-bg: #2D2F33;
+--footer-text-color: #FFF;
+
+--ui-orange:#E58411;
+--ui-biruza: #00D6C9;
+--ui-gray: #7C7C7C;
+--ui-dark-blue: #0D1B39;
+
+color: var(--textColor);
+
+--font-main: 'Poppins', sans-serif;
+--font-cards: 'Inter', sans-serif;
+--font-footer-accent: 'DM Sans', sans-serif;
+
+}
